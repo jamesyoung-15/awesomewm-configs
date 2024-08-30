@@ -1,6 +1,6 @@
 # AwesomeWM Configs
 
-My old AwesomeWM configs setup with NixOS. Have moved back to DE (KDE for now but will probably move to Cosmic DE) as AwesomeWM uses X11 and in general WMs not suitable for me.
+My old AwesomeWM configs setup with NixOS. Have moved back to DE (KDE for now but will probably move to Cosmic DE) as AwesomeWM uses X11 and in general WMs not suitable for me. See current desktop setup [here](https://github.com/jamesyoung-15/nix-os-configs).
 
 
 ## Preview
